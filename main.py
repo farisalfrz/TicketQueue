@@ -6,6 +6,8 @@ from playsound import playsound
 def add_business():
     # hubla
     pass
+def table1_calling():
+    pass
 
 
 # heap
