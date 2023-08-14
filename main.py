@@ -9,7 +9,10 @@ tts.save('sounds/9.mp3')
 
 
 # heap
-# heap = Heap()
+queue = []
+queue.append(1)
+queue.append(2)
+queue.append(3)
 
 # run
 # do
