@@ -2,12 +2,14 @@ from gtts import gTTS
 from playsound import playsound
 
 # sounds
-# tts = gTTS('to table one')
-# tts.save('sounds/to_table_one.mp3')
+tts = gTTS('9')
+tts.save('sounds/9.mp3')
 
 # functions
 
+
 # heap
+# heap = Heap()
 
 # run
 # do
