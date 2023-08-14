@@ -1,19 +1,15 @@
-from gtts import gTTS
+import heapq
 from playsound import playsound
 
-# sounds
-tts = gTTS('9')
-tts.save('sounds/9.mp3')
 
 # functions
+def add_business():
+    # hubla
+    pass
 
 
 # heap
 queue = []
-queue.append(4)
-queue.append(5)
-queue.append(6)
-queue.append(7)
 
 # run
 # do
